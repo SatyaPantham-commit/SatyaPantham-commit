@@ -1,0 +1,17 @@
+HOW TO INSTALL THIS PROFILE README
+
+1. Create or open a PUBLIC repository named exactly SatyaPantham-commit
+   under your GitHub account SatyaPantham-commit.
+2. Upload README.md to the repository root.
+3. Upload the entire assets/ folder beside README.md.
+4. Commit changes. GitHub will show the README on your profile.
+5. Replace the SQL-GPT placeholder with its real public repository link.
+
+GitHub README limitation:
+GitHub renders Markdown and a safe subset of HTML. It does not run custom
+JavaScript or custom CSS stylesheets/animations. This version uses HTML,
+Markdown, a custom SVG banner, and badge images. Your separate LWP website
+can support full CSS/JavaScript animation.
+
+The phone number and email from the resume are intentionally not exposed here.
+Verify project links and descriptions before publishing.
