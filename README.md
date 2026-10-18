@@ -85,8 +85,8 @@
 
 <!-- These cards come from a free third-party service (github-readme-stats). If they ever fail to load, you can delete this block. -->
 <div align="center">
-<img height="170" alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&hide_border=true&bg_color=1B0E30&title_color=B4E61D&icon_color=7C3AED&text_color=FFFFFF&ring_color=B4E61D">
-<img height="170" alt="Most used languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&hide_border=true&bg_color=1B0E30&title_color=B4E61D&text_color=FFFFFF">
+<img height="170" alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=SatyaPantham-commit&show_icons=true&hide_border=true&bg_color=1B0E30&title_color=B4E61D&icon_color=7C3AED&text_color=FFFFFF&ring_color=B4E61D">
+<img height="170" alt="Most used languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SatyaPantham-commit&layout=compact&hide_border=true&bg_color=1B0E30&title_color=B4E61D&text_color=FFFFFF">
 </div>
 
 <br>
@@ -113,6 +113,6 @@ New episode after every milestone. Come and learn with me.
 
 <img src="assets/divider.svg" alt="" width="100%">
 
-<sub>© Learn with Pantham (LWP) · Built with HTML and animated SVG</sub>
+<sub>© Learn with Pantham (LWP) </sub>
 
 </div>
