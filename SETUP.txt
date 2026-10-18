@@ -1,17 +1,10 @@
-HOW TO INSTALL THIS PROFILE README
+PROFILE README — UPDATED BANNER WITH YOUR LWP LOGO
 
-1. Create or open a PUBLIC repository named exactly SatyaPantham-commit
-   under your GitHub account SatyaPantham-commit.
-2. Upload README.md to the repository root.
-3. Upload the entire assets/ folder beside README.md.
-4. Commit changes. GitHub will show the README on your profile.
-5. Replace the SQL-GPT placeholder with its real public repository link.
+1. Open the profile repository named exactly SatyaPantham-commit.
+2. Upload README.md and the entire assets/ folder to the repository root.
+3. Commit changes and refresh your GitHub profile.
+4. Replace the SQL-GPT placeholder with its real public repository URL once confirmed.
 
-GitHub README limitation:
-GitHub renders Markdown and a safe subset of HTML. It does not run custom
-JavaScript or custom CSS stylesheets/animations. This version uses HTML,
-Markdown, a custom SVG banner, and badge images. Your separate LWP website
-can support full CSS/JavaScript animation.
-
-The phone number and email from the resume are intentionally not exposed here.
-Verify project links and descriptions before publishing.
+The banner is a PNG generated with the LWP logo you supplied. It does not use a generic/unknown logo.
+GitHub profile READMEs support Markdown and a safe subset of HTML, but do not execute custom JS or CSS.
+The animated typing image is provided by readme-typing-svg.demolab.com.

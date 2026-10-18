@@ -1,103 +1,108 @@
 <div align="center">
 
-<img src="assets/profile-banner.svg" width="100%" alt="Satya Pantham — Software Engineering, Data and AI">
+<img src="assets/profile-banner.png" width="100%" alt="Satya Pantham — Product Engineer, Data and AI">
 
-### Backend Engineering · Data Engineering · AI
-
-Building reliable software, exploring data systems, and learning in public.
+<br>
 
 <a href="https://www.youtube.com/channel/UChrvMmag1aRLoKz9QAOTYcQ"><img src="https://img.shields.io/badge/YouTube-Learn%20with%20Pantham-FF0033?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"></a>
-<a href="https://www.linkedin.com/in/satya-pantham-767435208/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-<a href="https://www.instagram.com/learn_with_pantham/"><img src="https://img.shields.io/badge/Instagram-LWP-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
+<a href="https://www.linkedin.com/in/satya-pantham-767435208/"><img src="https://img.shields.io/badge/LinkedIn-Let's%20connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+<a href="https://www.instagram.com/learn_with_pantham/"><img src="https://img.shields.io/badge/Instagram-Learn%20with%20Pantham-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
+
+<br><br>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2800&pause=850&color=CAFF35&center=true&vCenter=true&width=750&lines=Hi%2C+I'm+Satya+Pantham+%F0%9F%91%8B;Product+Engineer+%40+TCS;Backend+%26+Microservices+Engineer;Exploring+Data+Engineering+%26+AI;Building+projects.+Learning+in+public." alt="Animated introduction">
 
 </div>
 
 ---
 
-## `whoami` — About me
+## 👋 Hi, I'm Satya.
 
-I'm a **Product Engineer at Tata Consultancy Services (TCS)** working on backend engineering for enterprise banking software. My work includes developing and maintaining APIs and services, implementing business logic, testing, debugging, and supporting reliable software delivery.
+I'm a **Product Engineer at Tata Consultancy Services (TCS)**, working on backend engineering for enterprise banking software. I enjoy building reliable services, understanding how systems work, and turning requirements into maintainable software.
 
-My professional foundation is in **Java, Spring Boot, REST APIs, microservices, and event-driven systems**. I'm expanding my hands-on work in **Data Engineering and AI**, and sharing that learning journey through ****Learn with Pantham · LWP****.
+My core experience is in **Java, Spring Boot, REST APIs, microservices, and event-driven architecture**. I'm now growing deeper into **Data Engineering and AI engineering**—building projects, strengthening fundamentals, and sharing what I learn through my educational channel, **Learn with Pantham (LWP)**.
 
-- 🏢 **Current role:** Product Engineer — TCS
-- 🧩 **Domain:** Core Banking, Trade Finance, SWIFT messaging
-- ⚙️ **Interests:** Backend systems, distributed architecture, data pipelines, AI
-- 🎓 **Education:** B.Tech, Computer Science & Engineering — CGPA 8.72/10
-- 🌱 **Currently exploring:** Data Engineering, PySpark, LLM fundamentals, practical AI projects
+- 🔭 **Currently building:** Practical projects in Data Engineering and AI
+- 💼 **Professional focus:** Backend development, APIs, microservices, testing and delivery
+- 🏦 **Domain experience:** Core Banking, Trade Finance, SWIFT messaging
+- 🌱 **Learning next:** Python-based data pipelines, PySpark, LLM internals and evaluation
+- 🎓 **Education:** B.Tech in Computer Science & Engineering · CGPA 8.72/10
+- 💡 **Principle:** Understand the fundamentals. Build something real. Share the learning.
 
-## `toolbox` — Technology stack
+## 🧰 Tech I work with
 
 <div align="center">
 
-**Backend & Languages**
-
-<img src="https://skillicons.dev/icons?i=java,spring,python,postgres,git,github,docker,jenkins&theme=dark" alt="Technology stack icons">
+<img src="https://skillicons.dev/icons?i=java,spring,python,postgres,git,github,docker,jenkins&theme=dark" alt="Technology icons">
 
 </div>
 
-| Area | Tools and concepts |
+| Category | Skills |
 |---|---|
-| **Backend** | Java, Spring Boot, Spring MVC, Spring Data JPA, Hibernate |
-| **APIs & architecture** | REST APIs, Microservices, Apache Kafka, Event-driven architecture |
-| **Databases** | SQL, Oracle, PostgreSQL |
+| **Languages & data** | Java, SQL, Oracle, PostgreSQL |
+| **Backend** | Spring Boot, Spring MVC, Spring Data JPA, Hibernate, REST APIs |
+| **Architecture & messaging** | Microservices, Apache Kafka, event-driven architecture |
 | **Testing & delivery** | JUnit, integration testing, Swagger / OpenAPI, Maven, Jenkins, CI/CD |
 | **Core engineering** | OOP, SOLID, design patterns, multithreading, collections, exception handling |
-| **Banking domain** | TCS BaNCS, Core Banking, Trade Finance, SWIFT messaging |
-| **Growing focus** | Python, Data Engineering, PySpark, AI / LLM engineering |
+| **Domain knowledge** | TCS BaNCS, Core Banking, Trade Finance, SWIFT messaging |
+| **Expanding into** | Python, Data Engineering, PySpark, AI / LLM engineering |
 
-<sub>“Growing focus” represents current learning and project direction, not a claim of production-level experience with every tool.</sub>
+<sub>The “Expanding into” line reflects my current learning direction, not a claim of production experience with every tool.</sub>
 
-## `selected_work` — Projects
+## 🚀 Projects
 
 ### 🧠 LWP SQL-GPT 1.0
-An educational project exploring how a GPT-style language model works: tokenization, a decoder-only Transformer, training, and evaluation, using SQL generation as a demonstration task.
+An independent educational project to understand how a GPT-style language model is built—from tokenization and a decoder-only Transformer to training and evaluation. The goal is learning model internals from randomly initialized weights, not competing with commercial LLMs.
 
-**Focus:** Python · Transformers · Tokenization · Model training · Evaluation
+**Exploring:** Python · Tokenization · Transformers · Training loops · Evaluation
 
-> Add the public repository link here once the project URL is confirmed.
+> Add the repository link here when the project is public and the final URL is confirmed.
 
 ### 🩻 Knee Osteoarthritis Detection using Deep Learning
-Built an image-classification pipeline using TensorFlow and ResNet50 transfer learning to classify knee osteoarthritis severity from X-ray images, achieving **81.2% classification accuracy** on the evaluated dataset.
+Built a TensorFlow image-classification pipeline using ResNet50 transfer learning to classify knee osteoarthritis severity from X-ray images, achieving **81.2% accuracy** on the evaluated dataset.
 
-**Focus:** TensorFlow · ResNet50 · Transfer Learning · Image Classification
+**Stack:** TensorFlow · ResNet50 · Transfer Learning · Image Classification
 
 ### 🔤 Handwritten Telugu Character Recognition
-Developed a CNN-based OCR model using TensorFlow and Keras to recognise handwritten Telugu characters, achieving **85.7% accuracy** on the evaluated dataset.
+Developed a CNN-based handwritten Telugu character recognition model using TensorFlow and Keras, achieving **85.7% accuracy** on the evaluated dataset.
 
-**Focus:** TensorFlow · Keras · CNN · OCR
+**Stack:** TensorFlow · Keras · CNN · OCR
 
-### 🚧 Data Engineering Pipeline — In progress
-Building practical experience with data ingestion, transformation, validation, and analytics-ready outputs. Project details will be added as implementations become available.
-
-<div align="center">
-<a href="https://github.com/SatyaPantham-commit?tab=repositories"><img src="https://img.shields.io/badge/Explore%20repositories-181717?style=for-the-badge&logo=github&logoColor=white" alt="Explore repositories"></a>
-</div>
-
-## `learn_in_public` — Learn with Pantham
+### ⚙️ Data Engineering portfolio
+I'm developing end-to-end projects that demonstrate data ingestion, transformation, data-quality checks, and analytics-ready outputs. I'll add implementation details and results as each project becomes ready to share.
 
 <div align="center">
+<a href="https://github.com/SatyaPantham-commit?tab=repositories"><img src="https://img.shields.io/badge/Explore%20my%20repositories-181717?style=for-the-badge&logo=github&logoColor=white" alt="Explore repositories"></a>
+</div>
 
-**Learn with Pantham · LWP**
+## 🎥 Learn with Pantham
 
-**Learn with Pantham (LWP)** is my educational channel focused on AI, Data Engineering, software, and technology shaping our future. The goal: understand concepts deeply, build practical projects, and share useful explanations.
+**Learn with Pantham (LWP)** is my educational channel about **AI, Data Engineering, software, and future technology**. I want to make complex topics easier to understand through practical explanations, experiments, and project walkthroughs.
 
-<a href="https://www.youtube.com/channel/UChrvMmag1aRLoKz9QAOTYcQ"><img src="https://img.shields.io/badge/YouTube-Explore%20LWP-FF0033?style=for-the-badge&logo=youtube&logoColor=white" alt="Explore LWP"></a>
-<a href="https://www.instagram.com/learn_with_pantham/"><img src="https://img.shields.io/badge/Instagram-@learn__with__pantham-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="LWP Instagram"></a>
+<div align="center">
 
-**A Will to Know. A Pantham to Grow.**
+<a href="https://www.youtube.com/channel/UChrvMmag1aRLoKz9QAOTYcQ"><img src="https://img.shields.io/badge/▶%20Watch-Learn%20with%20Pantham-FF0033?style=for-the-badge" alt="Watch LWP"></a>
+<a href="https://www.instagram.com/learn_with_pantham/"><img src="https://img.shields.io/badge/◎%20Follow-@learn__with__pantham-E4405F?style=for-the-badge" alt="Follow LWP"></a>
+
+### *A Will to Know. A Pantham to Grow.*
 
 </div>
 
-## `connect()` — Let's connect
+## 🤝 Connect with me
 
-I'm interested in backend engineering, distributed systems, Data Engineering, and practical AI. If you're building in these areas, feel free to connect.
+I'm always interested in conversations about backend engineering, distributed systems, data platforms, and practical AI.
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/satya-pantham-767435208/)
-- 🎥 [YouTube — Learn with Pantham](https://www.youtube.com/channel/UChrvMmag1aRLoKz9QAOTYcQ)
+- 🎬 [YouTube — Learn with Pantham](https://www.youtube.com/channel/UChrvMmag1aRLoKz9QAOTYcQ)
 - 📸 [Instagram — @learn_with_pantham](https://www.instagram.com/learn_with_pantham/)
-- 🧑‍💻 [GitHub repositories](https://github.com/SatyaPantham-commit?tab=repositories)
+- 💻 [Explore my GitHub repositories](https://github.com/SatyaPantham-commit?tab=repositories)
 
 ---
 
-<div align="center"><sub>Built with curiosity, consistency, and a Pantham to grow. 💜💚</sub></div>
+<div align="center">
+
+<img src="https://komarev.com/ghpvc/?username=SatyaPantham-commit&style=flat-square&color=a855f7" alt="Profile views">
+
+<sub>Build with purpose. Learn with curiosity. Grow with determination. 💜💚</sub>
+
+</div>
