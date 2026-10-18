@@ -73,8 +73,7 @@
 <br>
 
 > **LWP SQL-GPT 1.0** is a 12-week, open learning project. I build a tokenizer, a decoder-only Transformer, the training loop and a safe SQL evaluation harness myself, then share **real results, including failures**, in a YouTube series.
->
-> 📦 **Code:** [github.com/YOUR_GITHUB_USERNAME/lwp-sql-gpt](https://github.com/YOUR_GITHUB_USERNAME/lwp-sql-gpt)  
+> 
 > ▶️ **Series:** [Learn with Pantham on YouTube](https://www.youtube.com/channel/UChrvMmag1aRLoKz9QAOTYcQ)
 
 <br>
