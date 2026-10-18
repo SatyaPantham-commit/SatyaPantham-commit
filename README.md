@@ -1,164 +1,118 @@
-
 <!--
-  SATYA PANTHAM | GITHUB PROFILE
-  Visual identity: Deep plum • Purple • Neon lime
+  SETUP (takes 2 minutes)
+  1. This file must live in a repository whose name is exactly your GitHub username (public repo).
+  2. Search and replace YOUR_GITHUB_USERNAME with your real username (about 5 places).
+  3. Keep the assets/ folder next to this README.md. All animations are self-hosted SVG files.
 -->
 
 <div align="center">
 
-<a href="https://github.com/SatyaPantham-commit">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=190&color=0:241533,50:552D78,100:9BFF57&text=SATYA%20PANTHAM&fontColor=FFFFFF&fontSize=42&fontAlignY=38&desc=DATA%20ENGINEERING%20%7C%20AI%20ENGINEERING&descAlignY=60&descSize=15" width="100%" alt="Satya Pantham — Data Engineering and AI Engineering"/>
-</a>
+<img src="assets/banner.svg" alt="Satya Pantham, Learn with Pantham (LWP). Product Engineer at TCS, building AI one token at a time." width="100%">
 
-### Software Engineer · Data Engineering · AI Engineering
+<img src="assets/typing.svg" alt="Building an LLM from scratch. Teaching AI and Data Engineering. Product Engineer in banking tech." width="780">
 
-*Building systems. Understanding intelligence. Learning by creating.*
+<br><br>
 
-<br/>
+<a href="https://www.youtube.com/channel/UChrvMmag1aRLoKz9QAOTYcQ"><img src="assets/btn-youtube.svg" alt="YouTube: Learn with Pantham" height="56"></a>&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/satya-pantham-767435208/"><img src="assets/btn-linkedin.svg" alt="LinkedIn: Satya Pantham" height="56"></a>&nbsp;&nbsp;
+<a href="https://www.instagram.com/learn_with_pantham/"><img src="assets/btn-instagram.svg" alt="Instagram: @learn_with_pantham" height="56"></a>
 
-<a href="https://www.youtube.com/channel/UChrvMmag1aRLoKz9QAOTYcQ">
-  <img src="https://img.shields.io/badge/YouTube-Learn%20with%20Pantham-FF0033?style=for-the-badge&logo=youtube&logoColor=white" alt="Learn with Pantham on YouTube"/>
-</a>
-<a href="https://www.linkedin.com/in/satya-pantham-767435208/">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn"/>
-</a>
-<a href="https://www.instagram.com/learn_with_pantham/">
-  <img src="https://img.shields.io/badge/Instagram-LWP-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Learn with Pantham on Instagram"/>
-</a>
+<br><br>
+
+<img src="assets/divider.svg" alt="" width="100%">
 
 </div>
 
----
+<br>
 
-## `01` / About Me
+<img src="assets/h-about.svg" alt="01 About me" width="100%">
 
-I'm Satya, a software engineer interested in building reliable data systems and understanding AI from the fundamentals.
+<br>
 
-- 💻 Software Engineer at **Tata Consultancy Services**
-- ⚙️ Focused on **Data Engineering** and practical software development
-- 🧠 Exploring Transformer architectures and language models from scratch
-- 📚 Learning through implementation, experimentation, and documentation
-- 🚀 Building technical projects under **Learn with Pantham (LWP)**
+- 🏦 **Product Engineer and Team Lead at TCS.** I build backend services for a core banking platform: Trade Finance, Deposits, SWIFT messaging and batch jobs.
+- 👥 I lead a team of **8 engineers** through sprints, defect tracking and deliveries.
+- 🎬 I run **Learn with Pantham (LWP)**, a new YouTube channel where I teach **AI and Data Engineering** and learn in public.
+- 🧠 Right now I am building **LWP SQL-GPT 1.0**: a small GPT-style language model, built **from scratch** with random weights and no pretrained model, to understand how LLMs really work.
+- 🩻 I built a **CNN for knee osteoarthritis severity detection** from X-ray images (TensorFlow, TCS AI Hackathon 2025), reaching **81.2% accuracy**.
+- 💬 Ask me about: core banking, trade finance, SWIFT, Java and SQL, deep learning basics, and how LLMs are built.
 
-> My approach: understand the fundamentals, build the system, test the result, and document what I learn.
+<details>
+<summary><b>More about my banking and engineering work</b></summary>
 
-## `02` / Technical Focus
+<br>
+
+- Backend REST services for **Trade Finance**: letters of credit and bank guarantees (issuance and amendment).
+- **Standing Order Management** in Deposits: outward SWIFT message processing and scheduled batch jobs.
+- Contributed to moving a **monolithic core banking platform towards microservices** for better scalability and independent deployments.
+- Led daily stand-ups, sprint planning and defect tracking for a team of 8.
+- Reviewed and ran database scripts and coordinated smooth, stable deployments.
+- **Knee osteoarthritis detection:** CNN with data augmentation, batch normalisation and learning-rate scheduling on a small medical dataset.
+
+</details>
+
+<br>
+
+<img src="assets/h-stack.svg" alt="02 Tech stack and domain" width="100%">
+
+<br>
 
 <div align="center">
-
-| DATA ENGINEERING | AI ENGINEERING |
-|:---:|:---:|
-| Python · SQL | Python · PyTorch |
-| Apache Spark / PySpark | Transformer fundamentals |
-| ETL / ELT pipelines | Tokenization and training |
-| Data quality and testing | LLM experimentation |
-| Workflow orchestration | Model evaluation |
-
+<img src="assets/stack.svg" alt="Tech stack: Java, SQL, core banking, trade finance, SWIFT messaging, deposits, microservices, Git, GitHub, Jenkins, CI/CD, Python, PyTorch, TensorFlow, LLMs, Transformers, Data Engineering" width="100%">
 </div>
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,git,github,linux,docker,postgres,pytorch&theme=dark" alt="Technology icons for Python, Java, Git, GitHub, Linux, Docker, PostgreSQL and PyTorch"/>
-</p>
+<br>
 
-<p align="center">
-  <sub>Technology icons represent areas of interest and use; individual proficiency varies.</sub>
-</p>
+<img src="assets/h-building.svg" alt="03 Currently building" width="100%">
 
-## `03` / Featured Projects
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### 🧠 LWP SQL-GPT 1.0
-
-**Building a GPT-style model from the fundamentals.**
-
-An educational AI engineering project focused on implementing a decoder-only Transformer with randomly initialized weights.
-
-- Custom tokenizer
-- Transformer architecture
-- Training and evaluation
-- Experimental SQL generation
-
-<a href="https://github.com/SatyaPantham-commit/LWP-SQL-GPT-1.0">
-  <img src="https://img.shields.io/badge/EXPLORE%20PROJECT-8B5CF6?style=for-the-badge&logo=github&logoColor=white" alt="Explore LWP SQL-GPT 1.0"/>
-</a>
-
-</td>
-<td width="50%" valign="top">
-
-### ⚙️ Data Engineering Lab
-
-**From raw data to reliable analytics.**
-
-My focus for upcoming end-to-end projects:
-
-- Data ingestion and transformation
-- SQL and PySpark processing
-- Pipeline orchestration
-- Data validation and testing
-- Reproducible execution
-
-<sub>Project details and links will be added as implementations are completed.</sub>
-
-</td>
-</tr>
-</table>
-
-## `04` / What I'm Exploring
+<br>
 
 <div align="center">
-
-<img src="https://img.shields.io/badge/DATA%20PIPELINES-241533?style=flat-square&logo=apacheairflow&logoColor=9BFF57" alt="Data pipelines"/>
-<img src="https://img.shields.io/badge/DISTRIBUTED%20PROCESSING-241533?style=flat-square&logo=apachespark&logoColor=9BFF57" alt="Distributed processing"/>
-<img src="https://img.shields.io/badge/LLM%20FUNDAMENTALS-241533?style=flat-square&logo=pytorch&logoColor=C4A1FF" alt="LLM fundamentals"/>
-<img src="https://img.shields.io/badge/SOFTWARE%20ENGINEERING-241533?style=flat-square&logo=github&logoColor=FFFFFF" alt="Software engineering"/>
-
+<img src="assets/roadmap.svg" alt="LWP SQL-GPT 1.0 build plan: six sprints from 19 October 2026 to 10 January 2027" width="100%">
 </div>
 
-I value clean architecture, meaningful tests, reproducible experiments, clear documentation, and honest reporting of project results.
+<br>
 
-## `05` / Learn with Pantham
+> **LWP SQL-GPT 1.0** is a 12-week, open learning project. I build a tokenizer, a decoder-only Transformer, the training loop and a safe SQL evaluation harness myself, then share **real results, including failures**, in a YouTube series.
+>
+> 📦 **Code:** [github.com/YOUR_GITHUB_USERNAME/lwp-sql-gpt](https://github.com/YOUR_GITHUB_USERNAME/lwp-sql-gpt)  
+> ▶️ **Series:** [Learn with Pantham on YouTube](https://www.youtube.com/channel/UChrvMmag1aRLoKz9QAOTYcQ)
 
+<br>
+
+<img src="assets/h-stats.svg" alt="04 GitHub activity" width="100%">
+
+<br>
+
+<!-- These cards come from a free third-party service (github-readme-stats). If they ever fail to load, you can delete this block. -->
 <div align="center">
-
-<a href="https://www.youtube.com/channel/UChrvMmag1aRLoKz9QAOTYcQ">
-  <img src="https://img.shields.io/badge/LEARN%20WITH%20PANTHAM-LWP-8B5CF6?style=for-the-badge&logo=youtube&logoColor=white" alt="Learn with Pantham"/>
-</a>
-
-**A Will to Know. A Pantham to Grow.**
-
-Exploring AI, Data, Cloud, software development, and the technology shaping our future.
-
-<a href="https://www.youtube.com/channel/UChrvMmag1aRLoKz9QAOTYcQ">YouTube</a> ·
-<a href="https://www.instagram.com/learn_with_pantham/">Instagram</a>
-
+<img height="170" alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&hide_border=true&bg_color=1B0E30&title_color=B4E61D&icon_color=7C3AED&text_color=FFFFFF&ring_color=B4E61D">
+<img height="170" alt="Most used languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&hide_border=true&bg_color=1B0E30&title_color=B4E61D&text_color=FFFFFF">
 </div>
 
-## `06` / GitHub Activity
+<br>
+
+<img src="assets/h-connect.svg" alt="05 Let's connect" width="100%">
+
+<br>
 
 <div align="center">
 
-<a href="https://github.com/SatyaPantham-commit">
-  <img src="https://github-readme-stats.vercel.app/api?username=SatyaPantham-commit&show_icons=true&hide_border=true&bg_color=171321&title_color=C4A1FF&icon_color=9BFF57&text_color=F5F0FA&rank_icon=github" height="165" alt="GitHub profile statistics"/>
-</a>
-<a href="https://github.com/SatyaPantham-commit">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SatyaPantham-commit&layout=compact&hide_border=true&bg_color=171321&title_color=C4A1FF&text_color=F5F0FA" height="165" alt="Most used programming languages"/>
-</a>
+New episode after every milestone. Come and learn with me.
 
-</div>
+<br>
 
-<sub>Activity cards are provided by a third-party service and may occasionally be unavailable. Language statistics reflect repository contents, not skill level.</sub>
+<a href="https://www.youtube.com/channel/UChrvMmag1aRLoKz9QAOTYcQ"><img src="assets/btn-youtube.svg" alt="YouTube: Learn with Pantham" height="56"></a>&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/satya-pantham-767435208/"><img src="assets/btn-linkedin.svg" alt="LinkedIn: Satya Pantham" height="56"></a>&nbsp;&nbsp;
+<a href="https://www.instagram.com/learn_with_pantham/"><img src="assets/btn-instagram.svg" alt="Instagram: @learn_with_pantham" height="56"></a>
 
----
+<br><br>
 
-<div align="center">
+<img src="assets/quote.svg" alt="Build to understand. Train to experiment. Test to learn." width="100%">
 
-### Let's build something meaningful.
+<br>
 
-**Learn deeply. Build deliberately. Keep improving.**
+<img src="assets/divider.svg" alt="" width="100%">
 
-<sub>Designed with curiosity and determination · Learn with Pantham</sub>
+<sub>© Learn with Pantham (LWP) · Built with HTML and animated SVG</sub>
 
 </div>
